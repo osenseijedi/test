@@ -29,10 +29,10 @@ Tâches à faire pour une collaboration
 Petite convention
 -----------------
 
-Pour pouvoir collaborer, il faut écrire une convention pour tout.  Ainsi,
+Pour pouvoir *collaborer*, il faut écrire une *convention* pour tout.  Ainsi,
 les fichiers sont bien rangés et tout le monde s'y retrouve.
 
-De plus, tout écrire dans une convention facilite l'intégration de
+De plus, tout écrire dans une *convention* facilite l'intégration de
 nouveaux membres au sein de l'équipe.
 
 Autres choses?
