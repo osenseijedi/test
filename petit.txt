@@ -1,0 +1,41 @@
+====================================
+Un petit exemple de reStructuredText
+====================================
+
+----------------------------------
+Ceci est le sous-titre du document
+----------------------------------
+
+:Author: Emmanuel COUTRIS
+:Contact: emmanuel.coutris@gmail.com
+:Status: Demo
+:Abstract: C'est un petit texte pour tester et appliquer reStructuredText
+           C'est un petit langage de markup idéal pour taper du texte pur. Sans
+           prétention mais relativement bien pensé.
+           
+Premier chapitre, quelques mots sur reStructuredText
+====================================================
+
+Les décorations (sous-lignage et surlingage) sont au goût de l'auteur du
+document. Le premier style de décoration correspondra aux chapitres, le
+second style emploé sera celui des sous-chapitres et ainsi de suite.
+
+Pour le titre du document, la décoration doit être unique dans le document
+etle tout premier.
+
+Tâches à faire pour une collaboration
+=====================================
+
+Petite convention
+-----------------
+
+Pour pouvoir collaborer, il faut écrire une convention pour tout.  Ainsi,
+les fichiers sont bien rangés et tout le monde s'y retrouve.
+
+De plus, tout écrire dans une convention facilite l'intégration de
+nouveaux membres au sein de l'équipe.
+
+Autres choses?
+--------------
+
+Je pense que j'oublie plein de choses!
